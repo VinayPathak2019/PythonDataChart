@@ -2,7 +2,7 @@ import pyodbc
 
 # Connect to your SQL Server database
 conn = pyodbc.connect(
-    'DRIVER={SQL Server};SERVER=DESKTOP-U9TRIAN;DATABASE=ServiceInvoices;UID=sa;PWD=v!nay@123'
+    'DRIVER={SQL Server};SERVER=desktop-001;DATABASE=ServiceInvoices;UID=sa;PWD=1234'
 )
 
 # Execute your SQL query
